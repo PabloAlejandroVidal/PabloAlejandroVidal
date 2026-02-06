@@ -33,14 +33,6 @@ I analyze real APIs to identify risk patterns, document findings, and recommend 
 
 ---
 
-## 📊 GitHub Overview
-
-![Followers](https://img.shields.io/github/followers/PabloAlejandroVidal?style=flat-square)
-![Stars](https://img.shields.io/github/stars/PabloAlejandroVidal?style=flat-square)
-![Repos](https://img.shields.io/github/repo-size/PabloAlejandroVidal/appsec-api-audit-case-study?style=flat-square)
-
----
-
 ## 📬 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-vidal-2970b6195/)  
