@@ -33,16 +33,18 @@ I analyze real APIs to identify risk patterns, document findings, and recommend 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PabloAlejandroVidal&show_icons=true&theme=radical)
+![Followers](https://img.shields.io/github/followers/PabloAlejandroVidal?style=flat-square)
+![Stars](https://img.shields.io/github/stars/PabloAlejandroVidal?style=flat-square)
+![Repos](https://img.shields.io/github/repo-size/PabloAlejandroVidal/appsec-api-audit-case-study?style=flat-square)
 
 ---
 
 ## 📬 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-vidal-2970b6195/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pabloalejandrovidal@gmail.com)
 
 📌 Passionate about secure design, API hardening, and real-world security case studies?  
 ➡️ Start with the featured audit above.
